@@ -2,7 +2,7 @@
 
 int main()
 {
-	print("Elo mordeczko\n");
+	printf("Elo mordeczko\n");
 	getchar();
 	return 0;
 }
