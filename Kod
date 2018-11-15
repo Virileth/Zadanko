@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main()
+{
+	print("Elo mordeczko\n");
+	getchar();
+	return 0;
+}
